@@ -13,4 +13,18 @@ end of line
 end-of-line
 outline
 linear
-```
+
+Lists
+
+item
+item
+~/.
+
+!
+@ alias
+#
+$
+%
+^
+&*()_+
+00
