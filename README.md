@@ -24,3 +24,4 @@ Open the Quick Link menu: Windows logo key  + X
 Lock your PC: Windows logo key  + L
 
 [CLI commands](docs/cli.md)
+[visible text](url)
