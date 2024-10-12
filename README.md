@@ -25,3 +25,4 @@ Lock your PC: Windows logo key  + L
 
 [CLI commands](docs/cli.md)
 [visible text](url)
+[config notes](config/cfg.md)
